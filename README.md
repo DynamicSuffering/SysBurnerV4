@@ -5,3 +5,10 @@ Please do not copy my project! I have spent days and nights on this
 Instead, you can copy few components but please make sure to credit
 This is the first and original version
 Operated purely by batch files, a windows automation file which is optimized and mostly undetectable
+
+INCOMPLETE BUILD!!! <--------------
+Github doesnt allow me to upload or create directories? Which I need for this project
+Also I literally cannot mass import, bruh!!!
+Im lazy anyways dont expect a complete build in the few coming months
+
+NOTE: The complete build is on my local computer
